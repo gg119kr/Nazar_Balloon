@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1050" viewBox="0 0 900 1050">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5e5ee"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="900" height="1050" rx="46" fill="url(#g)"/>
+<rect x="58" y="58" width="784" height="934" rx="34" fill="none" stroke="#8fb7d5" stroke-opacity=".45" stroke-width="4" stroke-dasharray="14 10"/>
+<circle cx="450" cy="390" r="175" fill="#8fb7d5" fill-opacity=".12"/>
+<text x="450" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="150" fill="#8fb7d5" opacity=".9">?</text>
+<text x="450" y="655" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#342b30">Gender party — заготовка №4</text>
+<text x="450" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" letter-spacing="3" fill="#8fb7d5">ЗАГОТОВКА ДЛЯ ФОТО</text>
+<text x="450" y="890" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#786a71">Замініть цей SVG на реальне фото</text>
+<text x="450" y="925" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#9b8f95">Рекомендовано: WebP, 900 × 1050 px</text>
+</svg>
